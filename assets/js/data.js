@@ -407,7 +407,7 @@ chart.load([
     id: 'Muhammad Ali',
     pid: 'Ali Anwar',
     title: 'Quality Lead',
-    img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/Muhammad Ali.png',
+    img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/Muhammad-Ali.jpg',
   },
   {
     name: 'Muhammad Imran',
@@ -435,7 +435,7 @@ chart.load([
     id: 'Ismail Khan',
     pid: 'Rana Sohaib Mustafa',
     title: 'Manager, Chemical & Testing Management',
-    img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/Muhammad Ismail.png',
+    img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/Muhammad Ismail.jpg',
   },
   {
     name: 'Dania Jamil',
