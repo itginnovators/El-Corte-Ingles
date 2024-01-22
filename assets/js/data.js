@@ -531,9 +531,41 @@ chart.load([
     img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/faisal-iqbal.png',
   },
   {
+    name: 'MIS',
+    id: 'MIS',
+    pid: 'Zahid Sajjad',
+    title: '',
+    img: '',
+    email: ''
+  },
+  {
+    name: 'Sustainability & CSR',
+    id: 'csr',
+    pid: 'Zahid Sajjad',
+    title: '',
+    img: '',
+    email: ''
+  },
+  {
+    name: 'Logistics',
+    id: 'Logistics',
+    pid: 'Zahid Sajjad',
+    title: '',
+    img: '',
+    email: ''
+  },
+  {
+    name: 'Human Resource',
+    id: 'Hr',
+    pid: 'Zahid Sajjad',
+    title: '',
+    img: '',
+    email: ''
+  },
+  {
     name: 'Ahmed Adeel',
     id: 'Ahmed Adeel',
-    pid: 'Zahid Sajjad',
+    pid: 'csr',
     title: 'CSR & Sustainability Manager',
     img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/Adeel Ahmed.png',
   },
@@ -545,9 +577,30 @@ chart.load([
     img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/Basit ali.png',
   },
   {
+    name: 'Muhammad Aamir',
+    id: 'Muhammad Aamir',
+    pid: 'MIS',
+    title: 'MIS Manager',
+    img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/9.png',
+  },
+  {
+    name: 'Sadad Ali',
+    id: 'Sadad Ali',
+    pid: 'Muhammad Aamir',
+    title: 'MIS Executive',
+    img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/19.png',
+  },
+  {
+    name: 'Hammad',
+    id: 'Hammad',
+    pid: 'Muhammad Aamir',
+    title: 'Quality Executive',
+    img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/no-image.png',
+  },
+  {
     name: 'Grephen Almas',
     id: 'Grephen Almas',
-    pid: 'Zahid Sajjad',
+    pid: 'Logistics',
     title: 'Logistics Manager',
     img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/grephen-almas.png',
   },
@@ -571,6 +624,27 @@ chart.load([
     pid: 'Muhammad Kashif',
     title: 'Logistics Executive',
     img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/Khalid Imran.png',
+  },
+  {
+    id: 'Muhammad Safwan',
+    pid: 'Hr',
+    name: 'Muhammad Safwan',
+    title: 'HR Manager',
+    img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/6.png',
+  },
+  {
+    name: 'Rashna',
+    id: 'Rashna',
+    pid: 'Abdul Saboor',
+    title: 'Sourcing Executive',
+    img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/no-image.png',
+  },
+  {
+    name: 'Absar',
+    id: 'Absar',
+    pid: 'Abdul Saboor',
+    title: 'Sourcing Executive',
+    img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/no-image.png',
   },
   {
     name: 'Amna Minhas',
@@ -598,7 +672,7 @@ chart.load([
     id: 'Sana Zahid',
     pid: 'Imran Amjad',
     title: '3D Product Developer',
-    img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/no-image.png',
+    img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/7.png',
   },
   {
     name: 'Umair Ahmed',
@@ -612,7 +686,7 @@ chart.load([
     id: 'Sikandar Solangi',
     pid: 'Umair Ahmed',
     title: 'Librarian',
-    img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/no-image.png',
+    img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/60.png',
   },
   {
     name: 'Sajjad Hussain',
